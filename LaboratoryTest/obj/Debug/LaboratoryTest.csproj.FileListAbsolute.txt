@@ -1,0 +1,42 @@
+D:\C#Projects\LaboratoryTest\bin\Debug\LaboratoryTest.exe
+D:\C#Projects\LaboratoryTest\bin\Debug\LaboratoryTest.pdb
+D:\C#Projects\LaboratoryTest\obj\Debug\MainWindow.baml
+D:\C#Projects\LaboratoryTest\obj\Debug\MainWindow.g.cs
+D:\C#Projects\LaboratoryTest\obj\Debug\App.g.cs
+D:\C#Projects\LaboratoryTest\obj\Debug\LaboratoryTest_MarkupCompile.cache
+D:\C#Projects\LaboratoryTest\obj\Debug\LaboratoryTest.g.resources
+D:\C#Projects\LaboratoryTest\obj\Debug\LaboratoryTest.Properties.Resources.resources
+D:\C#Projects\LaboratoryTest\obj\Debug\LaboratoryTest.csproj.GenerateResource.Cache
+D:\C#Projects\LaboratoryTest\obj\Debug\LaboratoryTest.exe
+D:\C#Projects\LaboratoryTest\obj\Debug\LaboratoryTest.pdb
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\LaboratoryTest.exe
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\LaboratoryTest.pdb
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.csprojResolveAssemblyReference.cache
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\ListOfOrders.baml
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\Order.baml
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\ListOfOrders.g.cs
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\Order.g.cs
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\App.g.cs
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest_MarkupCompile.cache
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.g.resources
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.Properties.Resources.resources
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.csproj.GenerateResource.Cache
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.exe
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.pdb
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\LaboratoryTest.exe.manifest
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\LaboratoryTest.application
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.TrustInfo.xml
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.exe.manifest
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest.application
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\Authorization.exe
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\Authorization.pdb
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\prot.baml
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\prot.g.cs
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\WPFToolkit.dll
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\LaboratoryTest.exe.config
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\NewProtocolForm.baml
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\NewProtocolForm.g.cs
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\bin\Debug\Files\TemplateNewOrder.xlsx
+D:\C#Projects\7. VentsCorpPortal\LaboratoryTest\obj\Debug\LaboratoryTest_Content.g.cs

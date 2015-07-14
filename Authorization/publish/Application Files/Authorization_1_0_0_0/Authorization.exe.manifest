@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Authorization.exe" version="1.0.0.0" publicKeyToken="78b10d976b337849" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Authorization" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Authorization.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Authorization.exe" size="30720">
+      <assemblyIdentity name="Authorization" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tp003g64m9mqK58qy4hRGrdEyIM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Authorization.exe.config" size="203">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YSadA8h8/5nwLygqEGqP29laqKc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=KB-CHAIKIN\KB80" issuerKeyHash="87ea64be1362a092f75d9e9f4c10e67ab648eb42" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>lT33JlU5kCs2o8aTC8hDYJbot1Y=</DigestValue></Reference></SignedInfo><SignatureValue>VY6jx2no30JOfEvLGJ0aKaKkeOErlWHc4xGwGdSDTt2LhfprpxutHZdnhswuaqx12kLM7EwuD3qB9M1iFp94qUlSv9wSM0pme7Gj5xejmvkKxEJENBrMtym2LBWZzP09fBeTB7odWxH6iwcn0JgAEEtZffdKZ50wG2H69sey4MI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ogRZkhUTeQtEOdSUvOrozRqJHKZNQnG1IVt9xrSoQJC6mHm3u6gc7zwcN6yeA241PQ8bMCBTsSXFbEf9cf3gH4nqqBcAtyjoKT43bDH2+DO9eHCS67hRQpJUYSBAzAfwCdY0yxf7u/VfwbIdGa/TxQZ7E9Q7liIZ68s53y0tyek=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="56b7e8966043c80b93c6a3362b90395526f73d95" Description="" Url=""><as:assemblyIdentity name="Authorization.exe" version="1.0.0.0" publicKeyToken="78b10d976b337849" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KB-CHAIKIN\KB80</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ahxO7E6NP1qg+D8/5exXwcPruTk=</DigestValue></Reference></SignedInfo><SignatureValue>bCCcHprBZvT7NCfEPHqWe1tRcqxyKx8uthvWo+ViaAnS5sYDzbxKXKdkt52Ij8oCLRDRJe/WB8guGakw5rOH68eWpjH+g8UgwDseXirk5+VnQWLH2myyuU4o6LzvMZJYew3tMqALAxoGR9RX9QrklEeQWi48EMPipdEWNGK2AY8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ogRZkhUTeQtEOdSUvOrozRqJHKZNQnG1IVt9xrSoQJC6mHm3u6gc7zwcN6yeA241PQ8bMCBTsSXFbEf9cf3gH4nqqBcAtyjoKT43bDH2+DO9eHCS67hRQpJUYSBAzAfwCdY0yxf7u/VfwbIdGa/TxQZ7E9Q7liIZ68s53y0tyek=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQZ/k/ltMpNL5BSU3M0GCvMjANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4ASwBCAC0AQwBIAEEASQBLAEkATgBcAEsAQgA4ADAwHhcNMTUwNDA4MDcxMjAwWhcNMTYwNDA3MTMxMjAwWjApMScwJQYDVQQDHh4ASwBCAC0AQwBIAEEASQBLAEkATgBcAEsAQgA4ADAwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKIEWZIVE3kLRDnUlLzq6M0aiRymTUJxtSFbfca0qECQuph5t7uoHO88HDesngNuNT0PGzAgU7ElxWxH/XH94B+J6qgXALco6Ck+N2wx9vgzvXhwkuu4UUKSVGEgQMwH8AnWNMsX+7v1X8GyHRmv08UGexPUO5YiGevLOd8tLcnpAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAD1ebutHazDNkvbYvIA8mwzAOFcY8jUlN8M9l7DjZe+2L/2sj92EHPX0nmGTkrJ7Jtgs90bLg3Fv28BxsBzdERGUGYoZhMMQ5jGii1gsELV6VMycQsQ0CBqkFHrLZvujDewftjwaEBccYWRljYVM5kW29gU2DEwnjoO99T8DXbug=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

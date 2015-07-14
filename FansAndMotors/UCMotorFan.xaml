@@ -1,0 +1,97 @@
+﻿<UserControl x:Class="FansAndMotors.UcMotorFan"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1500"
+             xmlns:filter="clr-namespace:DataGridFilterLibrary;assembly=DataGridFilterLibrary"
+             x:Name="UcMotorFanForm">
+
+    <UserControl.Resources>
+        <!--<Style TargetType="DataGridColumnHeader"
+               BasedOn="{StaticResource {ComponentResourceKey 
+               TypeInTargetAssembly={x:TypeExtension filter:DataGridHeaderFilterControl}, 
+               ResourceId=DataGridHeaderFilterControlStyle}}">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>-->
+
+        <Style TargetType="{x:Type DataGridRow}">
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="DeepSkyBlue"/>
+                    <Setter Property="Foreground" Value="White"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </UserControl.Resources>
+
+
+    <Grid Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="250"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Image Grid.RowSpan="2" Source="Images\MA-Blauberg.png" HorizontalAlignment="Left" Margin="50,0,0,0"/>
+
+        <Grid Grid.Row="0" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="111*"/>
+            </Grid.RowDefinitions>
+            
+            <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Left">
+                <Label Content="&#xF03C;" FontFamily="Webdings" Foreground="#FF2B259B" FontSize="18" Margin="0,3,-5,0" Width="26"/>
+                <Label Content="Тип изделия" Foreground="Black" FontSize="16"/>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Orientation="Vertical" Margin="9,0,0,0">
+                <RadioButton Name="RbMotor" Content="Мотор" FontSize="16" GroupName="Type" Click="RbMotor_Click"/>
+                <RadioButton Name="RbFan" Content="Вентилятор" FontSize="16" GroupName="Type" Click="RbFan_Click"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Grid.ColumnSpan="2" Grid.Column="0">
+            <Label Content="&#xF03C;" FontFamily="Webdings" Foreground="#FF2B259B" FontSize="18" Margin="0,3,-5,0" Width="26"/>
+            <Label Content="Технические характеристики" Foreground="Black" FontSize="16"/>
+
+            <Button Name="BtnSaveEdit" Content="Сохранить" Width="76" Click="BtnSaveEdit_Click"/>
+
+            <Button Name="BtnRefreshFilter" Content="Сбросить фильтр" Width="121"
+                    Command="{Binding Path=(filter:DataGridExtensions.ClearFilterCommand), ElementName=DgCatalog}">
+            </Button>
+        </StackPanel>
+
+        <DataGrid x:Name="DgCatalog" AutoGenerateColumns="False" 
+                Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="0"
+                FontSize="15"
+                HorizontalGridLinesBrush="#FF0B4EA2" VerticalGridLinesBrush="#FF0B4EA2"
+                CanUserAddRows="False"
+                  filter:DataGridExtensions.UseBackgroundWorkerForFiltering="True"
+                filter:DataGridExtensions.IsClearButtonVisible="False"
+                filter:DataGridExtensions.IsFilterVisible="{Binding 
+                                                            Path=IsChecked,
+                                                            ElementName=ShowHideFilterCheckBox, Mode=TwoWay}"
+
+                                 ColumnHeaderStyle="{StaticResource {ComponentResourceKey
+                            TypeInTargetAssembly={x:Type filter:DataGridHeaderFilterControl}, 
+                            ResourceId=DataGridHeaderFilterControlStyle}}">
+                
+            </DataGrid>
+    </Grid>
+
+    <!--filter:DataGridExtensions.UseBackgroundWorkerForFiltering="True"
+                filter:DataGridExtensions.IsClearButtonVisible="False"
+                filter:DataGridExtensions.IsFilterVisible="{Binding 
+                                                            Path=IsChecked,
+                                                            ElementName=ShowHideFilterCheckBox, Mode=TwoWay}"
+
+                                 ColumnHeaderStyle="{StaticResource {ComponentResourceKey
+                            TypeInTargetAssembly={x:Type filter:DataGridHeaderFilterControl}, 
+                            ResourceId=DataGridHeaderFilterControlStyle}}"-->
+</UserControl>

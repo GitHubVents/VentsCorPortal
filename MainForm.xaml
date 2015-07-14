@@ -1,0 +1,193 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VentsCorpPortal.MainForm"
+        Title="VENTS - КОРПОРАТИВНЫЙ ПОРТАЛ" WindowState="Maximized" Width="1000" Height="600" x:Name="MainWindow" Icon="LogoBL.ico">
+
+    <Window.Resources>
+        
+        
+        
+        
+    </Window.Resources>
+
+    <Grid x:Name="MainGrid">
+        
+          
+    
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Backgraund.png">
+                <ImageBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="0.7" ScaleX="0.7"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform X="-0.04" Y="-0.04"/>
+                    </TransformGroup>
+                </ImageBrush.RelativeTransform>
+            </ImageBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="39"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,10,0" HorizontalAlignment="Right">
+            <Label x:Name="LoginedUser" Content="User" Margin="0,7"/>
+            <Button x:Name="BtnExit" Content="Выход" Width="75" Height="25"
+                    HorizontalAlignment="Right"
+                    Click="BtnExit_Click"/>
+        </StackPanel>
+
+        <Grid Grid.Row="1" x:Name="LoadDg" Loaded="LoadDg_Loaded" Margin="10,0,10,10"/>
+        <UniformGrid Grid.Row="1" Columns="4" Rows="4" x:Name="UniformGrid">
+            <!--ВЕНТИЛЯТОРЫ И ДВИГАТЕЛИ-->
+            <DockPanel Name="StackFansAndMotors" Margin="20"
+                        MouseUp="StackFansAndMotors_MouseUp"
+                        MouseMove="StackFansAndMotors_MouseMove"
+                        MouseLeave="StackFansAndMotors_MouseLeave">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Name="TxtBStackFansAndMotors"
+                        Text="ВЕНТИЛЯТОРЫ И ДВИГАТЕЛИ"
+                        FontWeight="Bold"
+                        FontSize="15"
+                        TextWrapping="Wrap"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+            <!--ПРОМЫШЛЕННАЯ И КОММЕРЧЕСКАЯ ВЕНТИЛЯЦИЯ-->
+            <DockPanel Margin="20">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Text="ПРОМЫШЛЕННАЯ И КОММЕРЧЕСКАЯ ВЕНТИЛЯЦИЯ"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        TextWrapping="Wrap"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+            <!--ПРИТОЧНО-ВЫТЯЖНЫЕ УСТАНОВКИ-->
+            <DockPanel Margin="20">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Text="ПРИТОЧНО-ВЫТЯЖНЫЕ УСТАНОВКИ"
+                    FontWeight="Bold"
+                    FontSize="14"
+                    TextWrapping="Wrap"
+                    VerticalAlignment="Center"
+                    TextAlignment="Center"/>
+            </DockPanel>
+
+            <!--БЫТОВАЯ ВЕНТИЛЯЦИЯ-->
+            <DockPanel Margin="20">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Text="БЫТОВАЯ ВЕНТИЛЯЦИЯ"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        TextWrapping="Wrap"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+            <!--ДЫМОУДАЛЕНИЕ И ВЕНТИЛЯЦИЯ-->
+            <DockPanel Name="StackSmoke" Margin="20"
+                        MouseUp="StackSmoke_MouseUp"
+                        MouseMove="StackSmoke_MouseMove"
+                        MouseLeave="StackSmoke_MouseLeave">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6" />
+                </DockPanel.Background>
+                <TextBlock Name="TxtBStackSmoke"
+                        Text="ДЫМОУДАЛЕНИЕ И ВЕНТИЛЯЦИЯ"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        TextWrapping="Wrap"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+            <!--ЛАБОРАТОРИЯ ИСПЫТАНИЙ И ТЕСТИРОВАНИЯ-->
+            <DockPanel Name="StackPanelLab" Margin="20"
+                        MouseUp="StackPanelLab_MouseUp"
+                        MouseMove="StackPanelLab_MouseMove"
+                        MouseLeave="StackPanelLab_MouseLeave">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Name="TxtBStackPanelLab"
+                        Text="ЛАБОРАТОРИЯ ИСПЫТАНИЙ И ТЕСТИРОВАНИЯ"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        TextWrapping="Wrap"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+            <DockPanel Margin="20">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Text="ПРОТОКОЛЫ ИСПЫТАНИЙ"
+                        TextWrapping="Wrap"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+            <DockPanel Margin="20">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Text="ЦЕХ МЕТАЛЛОИЗДЕЛИЙ"
+                        TextWrapping="Wrap"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+            <DockPanel Margin="20,20,0,0">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Text="ТЕХНОЛОГИЧЕСКАЯ ПОДГОТОВКА ПРОИЗВОДСТВА"
+                        TextWrapping="Wrap"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+            <!--УЧЕТ ЗАКАЗОВ AIRVENTS-->
+            <DockPanel Name="StackAirVentsOrder" Margin="20" 
+                        MouseUp="StackAirVentsOrder_MouseUp"
+                        MouseMove="StackAirVentsOrder_MouseMove"
+                        MouseLeave="StackAirVentsOrder_MouseLeave">
+                <DockPanel.Background>
+                    <SolidColorBrush Color="AliceBlue" Opacity="0.6"/>
+                </DockPanel.Background>
+                <TextBlock Name="TxtBStackAirVentsOrder"
+                        Text="УЧЕТ ЗАКАЗОВ AIRVENTS" 
+                        TextWrapping="Wrap"
+                        FontWeight="Bold"
+                        FontSize="14"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Center"
+                        TextAlignment="Center"/>
+            </DockPanel>
+
+
+        </UniformGrid>
+    </Grid>
+</Window>

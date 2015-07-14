@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="LaboratoryTest.ListOfOrders"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid Name="GridListOfOrders" Loaded="GridListOfOrders_Loaded">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="1" Content="Новый протокол испытаний" x:Name="BtnNewProtocol" Click="BtnNewProtocol_Click"/>
+        
+        <DataGrid Name="DgListOfOrders"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  CanUserResizeColumns="False" Grid.Row="2"
+                  FontSize="15"
+                  HorizontalGridLinesBrush="#FF0B4EA2" VerticalGridLinesBrush="#FF0B4EA2" Margin="5">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="TypeItem" Binding="{Binding TypeItem}" Width="*"/>
+                <DataGridTextColumn Header="InfoItem" Binding="{Binding InfoItem}" Width="*"/>
+                <DataGridTextColumn Header="TestProcedure" Binding="{Binding TestProcedure}" Width="*"/>
+                <DataGridTextColumn Header="Note" Binding="{Binding Note}" Width="*"/>
+                <DataGridTextColumn Header="Capacitor" Binding="{Binding Capacitor}" Width="50"/>
+                <DataGridTextColumn Header="FullName" Binding="{Binding FullName}" Width="*"/>
+                <DataGridTextColumn Header="FanName" Binding="{Binding FanName}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

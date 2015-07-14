@@ -1,0 +1,115 @@
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe.config
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csprojResolveAssemblyReference.cache
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\MainUC.g.cs
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\MainWindow.g.cs
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\App.g.cs
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager_MarkupCompile.cache
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager_MarkupCompile.lref
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.pdb
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\MainUC.baml
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\MainWindow.baml
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.g.resources
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.Properties.Resources.resources
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csproj.GenerateResource.Cache
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.exe
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.pdb
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\ManagerEditorUC.baml
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\ManagerEditorUC.g.cs
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\NewOrderUC.g.cs
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\NewOrderUC.baml
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\EditorManager.baml
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\EditorСomponentry.baml
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\EditorManager.g.cs
+D:\Project\Developments\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\EditorСomponentry.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe.config
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.exe
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.pdb
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csprojResolveAssemblyReference.cache
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\MainUC.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\EditorManager.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\NewOrderUC.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\EditorСomponentry.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\MainUC.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\EditorManager.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\NewOrderUC.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\EditorСomponentry.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\App.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager_MarkupCompile.cache
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.g.resources
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.Properties.Resources.resources
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csproj.GenerateResource.Cache
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.pdb
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\OrderWindow.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\OrderWindow.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\OrderDetails.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\OrderDetails.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\OrderBomUc.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\OrderBomUc.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AllOrder.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\AllOrder.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\MainWindowAirVentsOrder.baml
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrdersEditor\AirVentsOrdersEditor\AirVentsOrderManager\obj\Debug\MainWindowAirVentsOrder.g.cs
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe.config
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.exe
+C:\Users\kb81.VENTS\Source\Repos\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.pdb
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe.config
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.exe
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.pdb
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.pdb
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csprojResolveAssemblyReference.cache
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AllOrder.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\OrderBomUc.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\MainUC.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\MainWindowAirVentsOrder.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\EditorManager.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\NewOrderUC.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\EditorСomponentry.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\OrderDetails.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\OrderWindow.baml
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AllOrder.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\OrderBomUc.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\MainUC.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\MainWindowAirVentsOrder.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\EditorManager.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\NewOrderUC.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\EditorСomponentry.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\OrderDetails.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\OrderWindow.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\App.g.cs
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AirVentsOrderManager_MarkupCompile.cache
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.g.resources
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.Properties.Resources.resources
+C:\Users\KB80\Desktop\AirVentsOrderManager\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csproj.GenerateResource.Cache
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe.config
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.pdb
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csprojResolveAssemblyReference.cache
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AllOrder.baml
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\MainUC.baml
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\MainWindowAirVentsOrder.baml
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\EditorManager.baml
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\EditorСomponentry.baml
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\OrderWindow.baml
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AllOrder.g.cs
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\MainUC.g.cs
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\MainWindowAirVentsOrder.g.cs
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\EditorManager.g.cs
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\EditorСomponentry.g.cs
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\OrderWindow.g.cs
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\App.g.cs
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager_MarkupCompile.cache
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.g.resources
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.Properties.Resources.resources
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csproj.GenerateResource.Cache
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.exe
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.pdb
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\Interop.EdmLib.dll
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.csproj.ResolveComReference.cache
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.exe.manifest
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\bin\Debug\AirVentsOrderManager.application
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.TrustInfo.xml
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.exe.manifest
+D:\C#Projects\7. VentsCorpPortal\AirVentsOrderManager\obj\Debug\AirVentsOrderManager.application

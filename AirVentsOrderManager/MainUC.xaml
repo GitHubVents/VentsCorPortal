@@ -1,0 +1,55 @@
+﻿<UserControl x:Class="AirVentsOrderManager.MainUc"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type DataGridRow}">
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="DeepSkyBlue"/>
+                    <Setter Property="Foreground" Value="White"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <DataGrid Name="ForDataTable" Grid.Row="0" Height="200"></DataGrid>
+        <DataGrid x:Name="OrderGrid" Loaded="OrderGrid_Loaded"  SelectionMode="Single" IsReadOnly="True"
+                   AutoGenerateColumns="False"  Width="Auto" 
+                FontSize="15" HorizontalGridLinesBrush="#FF0B4EA2" VerticalGridLinesBrush="#FF0B4EA2" Grid.Row="1" >
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Редактировать.." Click="EditItem"/>
+                    <MenuItem Header="Удалить.." Click="DeleteItem"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Подбор" Width="135" Binding="{Binding ProjectNumber}"/>
+                <DataGridTextColumn Header="Менеджер" Width="*" Binding="{Binding Expr1}"/>
+                <DataGridTextColumn Header="Заказ" Width="*" Binding="{Binding InternalNumberFull, StringFormat=d}"/>
+                <DataGridTextColumn Header="Тип каркаса" Width="*" Binding="{Binding Description, StringFormat=d}"/>
+                <DataGridTextColumn Header="Конструктор" Width="*" Binding="{Binding Expr2}"/>
+                <DataGridTextColumn Header="Дата" Width="*" Binding="{Binding Date, StringFormat=d, ConverterCulture=ru-RU}"/>
+                <DataGridTextColumn Header="Поступление" Width="*" Binding="{Binding RequiredDate, ConverterCulture=ru-RU, StringFormat=d}"/>
+                <DataGridTextColumn Header="Сдача КД (П)" Width="*" Binding="{Binding CompletionDate, ConverterCulture=ru-RU, StringFormat=d}"/>
+                <DataGridTextColumn Header="Сдача КД (Ф)" Width="*" Binding="{Binding FinishCompletionDate, ConverterCulture=ru-RU, StringFormat=d}"/>
+                <DataGridTextColumn Header="Отгрузка" Width="*" Binding="{Binding ShippedDate, ConverterCulture=ru-RU, StringFormat=d}"/>
+
+                <!--<DataGridTextColumn Header="OrderId" Width="80" Binding="{Binding OrderId}"/>
+                <DataGridTextColumn Header="ManagerId" Width="60" Binding="{Binding ManagerId}"/>
+                <DataGridTextColumn Header="ConstructorId" Width="60" Binding="{Binding ConstructorId}"/>
+                <DataGridTextColumn Header="SizeId" Width="60" Binding="{Binding SizeId}"/>
+                <DataGridTextColumn Header="ProfilId" Width="60" Binding="{Binding ProfilId}"/>-->
+                
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Name="CounLabel" Grid.Row="2"></Label>
+    </Grid>
+</UserControl>

@@ -1,0 +1,67 @@
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\bin\Debug\VentsCorpPortal.exe.manifest
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\bin\Debug\VentsCorpPortal.application
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\bin\Debug\VentsCorpPortal.exe
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\bin\Debug\VentsCorpPortal.pdb
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\obj\Debug\App.g.cs
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal_MarkupCompile.cache
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.Properties.Resources.resources
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.csproj.GenerateResource.Cache
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.exe.manifest
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.application
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.exe
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.pdb
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.exe
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.pdb
+D:\C#Projects\VentsCorpPortal\bin\Debug\VentsCorpPortal.exe.manifest
+D:\C#Projects\VentsCorpPortal\bin\Debug\VentsCorpPortal.application
+D:\C#Projects\VentsCorpPortal\bin\Debug\VentsCorpPortal.exe
+D:\C#Projects\VentsCorpPortal\bin\Debug\VentsCorpPortal.pdb
+D:\C#Projects\VentsCorpPortal\bin\Debug\Authorization.exe
+D:\C#Projects\VentsCorpPortal\bin\Debug\Authorization.pdb
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.csprojResolveAssemblyReference.cache
+D:\C#Projects\VentsCorpPortal\obj\Debug\App.g.cs
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal_MarkupCompile.cache
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.Properties.Resources.resources
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.csproj.GenerateResource.Cache
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.exe.manifest
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.application
+D:\C#Projects\VentsCorpPortal\obj\Debug\MainForm.baml
+D:\C#Projects\VentsCorpPortal\obj\Debug\MainForm.g.cs
+D:\C#Projects\VentsCorpPortal\obj\Debug\VentsCorpPortal.g.resources
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\VentsCorpPortal.exe.manifest
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\VentsCorpPortal.application
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\VentsCorpPortal.exe
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\VentsCorpPortal.pdb
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\Authorization.exe
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\Authorization.pdb
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal.csprojResolveAssemblyReference.cache
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\MainForm.baml
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\MainForm.g.cs
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\App.g.cs
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal_MarkupCompile.cache
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal.g.resources
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal.Properties.Resources.resources
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal.csproj.GenerateResource.Cache
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal.exe.manifest
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal.application
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal.exe
+D:\C#Projects\7. VentsCorpPortal\obj\Debug\VentsCorpPortal.pdb
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\FansAndMotors.exe
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\FansAndMotors.pdb
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\VentsCorpPortal.exe.config
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\DataGridFilterLibrary.dll
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\Interop.EdmLib.dll
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\WPFToolkit.dll
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\WPFToolkit.pdb
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\LaboratoryTest.exe
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\LaboratoryTest.pdb
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\Files\TemplateNewOrder.xlsx
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\AirVentsOrderManager.exe
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\AirVentsOrderManager.pdb
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\SmokeExtraction.exe
+D:\C#Projects\7. VentsCorpPortal\bin\Debug\SmokeExtraction.pdb
+D:\Git\VentsCorPortal\bin\Debug\VentsCorpPortal.exe.config
+D:\Git\VentsCorPortal\obj\Debug\VentsCorpPortal.exe
+D:\Git\VentsCorPortal\obj\Debug\VentsCorpPortal.pdb

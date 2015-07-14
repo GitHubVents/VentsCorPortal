@@ -1,0 +1,40 @@
+D:\Project\Developments\SmokeExtraction\bin\Debug\SmokeExtraction.exe
+D:\Project\Developments\SmokeExtraction\bin\Debug\SmokeExtraction.pdb
+D:\Project\Developments\SmokeExtraction\obj\Debug\SmokeExtractionMainUC.baml
+D:\Project\Developments\SmokeExtraction\obj\Debug\SmokeExtractionMainUC.g.cs
+D:\Project\Developments\SmokeExtraction\obj\Debug\App.g.cs
+D:\Project\Developments\SmokeExtraction\obj\Debug\SmokeExtraction_MarkupCompile.cache
+D:\Project\Developments\SmokeExtraction\obj\Debug\SmokeExtraction.g.resources
+D:\Project\Developments\SmokeExtraction\obj\Debug\SmokeExtraction.Properties.Resources.resources
+D:\Project\Developments\SmokeExtraction\obj\Debug\SmokeExtraction.csproj.GenerateResource.Cache
+D:\Project\Developments\SmokeExtraction\obj\Debug\SmokeExtraction.exe
+D:\Project\Developments\SmokeExtraction\obj\Debug\SmokeExtraction.pdb
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\bin\Debug\SmokeExtraction.exe
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\bin\Debug\SmokeExtraction.pdb
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.csprojResolveAssemblyReference.cache
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtractionMainUC.baml
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtractionMainUC.g.cs
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\App.g.cs
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction_MarkupCompile.cache
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.g.resources
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.Properties.Resources.resources
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.csproj.GenerateResource.Cache
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.exe
+D:\Project\Developments\VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.pdb
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\bin\Debug\SmokeExtraction.exe
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\bin\Debug\SmokeExtraction.pdb
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.csprojResolveAssemblyReference.cache
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtractionMainUC.baml
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtractionMainUC.g.cs
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\App.g.cs
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction_MarkupCompile.cache
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.g.resources
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.Properties.Resources.resources
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.csproj.GenerateResource.Cache
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.exe
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.pdb
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\bin\Debug\SmokeExtraction.exe.manifest
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\bin\Debug\SmokeExtraction.application
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.TrustInfo.xml
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.exe.manifest
+D:\C#Projects\7. VentsCorpPortal\SmokeExtraction\obj\Debug\SmokeExtraction.application

@@ -1,0 +1,45 @@
+﻿<Window x:Class="Authorization.UserNameList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UserNameList" Height="463" Width="370" WindowStartupLocation="CenterScreen" Topmost="True">
+    <Grid Name="GridUsersNameList" Loaded="GridUsersNameList_Loaded">
+        <ListView x:Name="ListViewAllUsers"
+    		ItemsSource="{Binding UserClass}"
+    		Margin="10,10,13,37" >
+            <ListView.View>
+                <GridView>
+
+                    <GridViewColumn>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <CheckBox x:Name="ChkBoxUsers" IsChecked="{Binding IsSelected, RelativeSource={RelativeSource AncestorType={x:Type ListViewItem}}}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn  Header="Пользователи">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding UserName}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+
+                    <GridViewColumn  Header="Полное имя" Width="Auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding FullName}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Name="BtnAddUser" Content="Добавить пользователя" HorizontalAlignment="Left" Margin="10,0,0,10" Width="149" Click="BtnAddUser_Click" Height="22" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

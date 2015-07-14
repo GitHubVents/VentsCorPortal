@@ -1,0 +1,38 @@
+D:\C#Projects\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+D:\C#Projects\Authorization\obj\Debug\Administation.baml
+D:\C#Projects\Authorization\obj\Debug\AuthorizationForm.baml
+D:\C#Projects\Authorization\obj\Debug\UserNameList.baml
+D:\C#Projects\Authorization\obj\Debug\Administation.g.cs
+D:\C#Projects\Authorization\obj\Debug\AuthorizationForm.g.cs
+D:\C#Projects\Authorization\obj\Debug\UserNameList.g.cs
+D:\C#Projects\Authorization\obj\Debug\App.g.cs
+D:\C#Projects\Authorization\obj\Debug\Authorization_MarkupCompile.cache
+D:\C#Projects\Authorization\obj\Debug\Authorization.g.resources
+D:\C#Projects\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+D:\C#Projects\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+D:\C#Projects\Authorization\bin\Debug\Authorization.exe
+D:\C#Projects\Authorization\bin\Debug\Authorization.pdb
+D:\C#Projects\Authorization\obj\Debug\Authorization.exe
+D:\C#Projects\Authorization\obj\Debug\Authorization.pdb
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.exe
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.pdb
+D:\C#Projects\6. Authorization\bin\Debug\Authorization.exe
+D:\C#Projects\6. Authorization\bin\Debug\Authorization.pdb
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+D:\C#Projects\6. Authorization\obj\Debug\Administation.baml
+D:\C#Projects\6. Authorization\obj\Debug\AuthorizationForm.baml
+D:\C#Projects\6. Authorization\obj\Debug\UserNameList.baml
+D:\C#Projects\6. Authorization\obj\Debug\Administation.g.cs
+D:\C#Projects\6. Authorization\obj\Debug\AuthorizationForm.g.cs
+D:\C#Projects\6. Authorization\obj\Debug\UserNameList.g.cs
+D:\C#Projects\6. Authorization\obj\Debug\App.g.cs
+D:\C#Projects\6. Authorization\obj\Debug\Authorization_MarkupCompile.cache
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.g.resources
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.Properties.Resources.resources
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+D:\C#Projects\6. Authorization\bin\Debug\Authorization.exe.manifest
+D:\C#Projects\6. Authorization\bin\Debug\Authorization.application
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.TrustInfo.xml
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.exe.manifest
+D:\C#Projects\6. Authorization\obj\Debug\Authorization.application
+D:\C#Projects\6. Authorization\bin\Debug\Authorization.exe.config

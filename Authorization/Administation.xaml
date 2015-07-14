@@ -1,0 +1,106 @@
+﻿<Window x:Class="Authorization.Administation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        Title="AuthorizationForm" Loaded="Window_Loaded" Width="1000" WindowStartupLocation="CenterScreen" Topmost="True">
+    <Grid Name="GridHome" >
+        <ListView Name="ListViewGroup"  ItemsSource="{Binding Path=GroupClass}"
+            Margin="10,10,0,107" HorizontalAlignment="Left" Width="220" IsHitTestVisible="True" SelectionChanged="ListViewGroup_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn  Header="Группы" Width="Auto">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding GroupName}" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Name="BtnAddGroup" Content="Добавить группу"
+                HorizontalAlignment="Left" VerticalAlignment="Bottom" 
+                Margin="10,0,0,80" Width="122"
+                Click="BtnAddGroup_Click"/>
+
+        <Button Name="BtnDeleteGroup" Content="Удалить группу"
+                HorizontalAlignment="Left" VerticalAlignment="Bottom"
+                Margin="10,0,0,53" Width="122" Height="22" Click="BtnDeleteGroup_Click" />
+
+        <Button Name="BtnAddUserToGroup" Content="Добавить пользователя"
+                Margin="377,413,0,0" Click="BtnAddUserToGroup_Click" HorizontalAlignment="Left" Width="142" Height="22" VerticalAlignment="Top"/>
+
+        <TextBox Name="TxtGroupName"
+                 HorizontalAlignment="Left" Height="23" Margin="137,0,0,79"
+                 TextWrapping="Wrap" Text="имя группы..." VerticalAlignment="Bottom" Width="167"/>
+
+        <TabControl HorizontalAlignment="Left" Height="388" Margin="376,10,0,0" VerticalAlignment="Top" Width="438">
+            <TabItem Header="Принадлежность к группе">
+                <Grid Background="#FFE5E5E5">
+
+                    <ListView Name="ListViewUsers" ItemsSource="{Binding UserClass}">
+                        <ListView.View>
+                            <GridView>
+
+                                <GridViewColumn Header="Пользователи" >
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock Text="{Binding UserName}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Разрешения">
+                <Grid Background="#FFE5E5E5">
+
+                    <ListView Name="ListViewAction"
+                    ItemsSource="{Binding ActionClass}">
+                        <ListView.View>
+                            <GridView>
+
+                                <GridViewColumn>
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel>
+                                                <CheckBox x:Name="ChkBoxAction"
+                                                        IsChecked="{Binding Path=Sign}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+
+
+                                <GridViewColumn  Header="Действия">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock Text="{Binding ActionName}" />
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+        <Button Name="BtnSaveEditAction" Content="Сохранить разрешения"
+                HorizontalAlignment="Left"
+                Margin="574,425,0,0" VerticalAlignment="Top" Width="187" Click="BtnSaveEditAction_Click"/>
+        <Button Name="BtnExit" Content="Выход" HorizontalAlignment="Left" Margin="787,447,0,0" VerticalAlignment="Top" Width="90" Click="BtnExit_Click"/>
+        <Button Content="Проверка" HorizontalAlignment="Left" Margin="376,469,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button x:Name="BtnDeleteUser" Content="Удалить пользователя"
+        	Margin="377,442,0,0" Click="BtnDeleteUser_Click" HorizontalAlignment="Left" Width="142" Height="22" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>

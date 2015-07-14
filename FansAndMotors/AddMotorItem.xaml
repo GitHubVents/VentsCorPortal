@@ -1,0 +1,46 @@
+﻿<Window x:Class="FansAndMotors.AddMotorItem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AddMotorItem" Width="578" WindowStartupLocation="CenterScreen" Height="260" ResizeMode="NoResize">
+    <Grid Name="GridHome" Loaded="GridHome_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="281*"/>
+            <ColumnDefinition Width="189*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Vertical" HorizontalAlignment="Right">
+            <Label Content="Мотор:"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Grid.Column="1" Grid.ColumnSpan="2">
+            <Label Name="LblGenerateName" Width="174" Loaded="TxtBlockGenerateName_Loaded"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Vertical">
+            <Label Content="Тип мотора:"/>
+            <Label Content="Кол. полюсов:"/>
+            <Label Content="Напряжение:"/>
+            <Label Content="Корпус:"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" Grid.Column="1"
+                    HorizontalAlignment="Left">
+            <ComboBox Name="CboMotorType"  Width="120"/>
+            <ComboBox Name="CboPole"  Width="120"/>
+            <ComboBox Name="CboVolt"  Width="120"/>
+      
+            <ComboBox Name="CboMotorParam" Width="120"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="2">
+            <Button x:Name="BtnSave" Content="Сохранить" Click="BtnSave_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
